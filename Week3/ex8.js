@@ -3,3 +3,4 @@ function printUser({ name, age }) {
 }
 
 printUser({ name: 'Sophea', age: 20 });
+
